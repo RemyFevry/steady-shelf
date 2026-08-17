@@ -1,0 +1,1 @@
+import"./qrcode-CmynWmF3.js";import{r as e,i as r}from"./qr-DeLKVjj-.js";const a=new URL(".",location.href).href;e(document.getElementById("install-qr"),r({title:"SteadyReader",url:`${a}?v=0.2.2`,description:"Read-along reader — see and hear",themeColor:"#FE5000"}));
